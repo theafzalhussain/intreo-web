@@ -1,0 +1,19 @@
+
+.Mynav{
+    background-color:#712cf9;
+
+}
+.navbar-brand{
+   color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 530;
+    letter-spacing: 3px; 
+    background-color:#712cf9;
+}
+.nav-item{
+    padding: 0 7px;
+}
+.background{
+    background-color: #712cf9;
+    padding: 1px;
+}
